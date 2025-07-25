@@ -1,0 +1,7 @@
+{
+  "appid": "jumpcloud_ta",
+  "build": "1.0.0",
+  "author": "Neha Kaler",
+  "description": "JumpCloud Authentication Log Collector for Splunk",
+  "version": "1.0.0"
+}
